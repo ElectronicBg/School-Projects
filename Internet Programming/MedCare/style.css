@@ -1,0 +1,230 @@
+/* Reset CSS (if you have a separate reset.css file) */
+@import url(reset.css);
+
+/* Global Styles */
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin: 1em;
+    background-color: white;
+}
+
+.header-list {
+    display: flex;
+}
+
+.header-item {
+    display: inline-block;
+    padding: 0 1em;
+}
+
+/* Welcome Section Styles */
+.welcome-section {
+    background-image: url('./Image_Source/Main_bg_img.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 40em;
+}
+
+.welcome-container {
+    margin: 4em 4em 4em 10em;
+}
+
+.welcome-title {
+    display: flex;
+    justify-content: center;
+    font-size: 4em;
+    padding: 1em;
+}
+
+.welcome-subtitle {
+    font-size: 2.5em;
+    padding-bottom: 0.5em;
+    width: 10em;
+}
+
+.welcome-description {
+    font-size: 1.3em;
+    padding-bottom: 0.7em;
+    width: 25em;
+}
+
+.welcome-button {
+    background-color: red;
+    border: none;
+    border-radius: 0.8em;
+    padding: 0.7em;
+}
+
+.welcome-healthy {
+    color: red;
+    text-decoration: underline;
+}
+
+/* COVID-19 Section Styles */
+.covid19-section {
+    display: flex;
+    justify-content: center;
+    padding: 2em 0em;
+}
+
+.covid19-text-container {
+    width: 35em;
+    margin-right: 1em;
+}
+
+.covid19-title {
+    font-size: 1.5em;
+    font-weight: bold;
+    padding-bottom: 0.7em;
+}
+
+.covid19-paragraph {
+    padding-bottom: 1em;
+    font-size: 1.1em;
+}
+
+.covid19-button {
+    border-color: greenyellow;
+    color: greenyellow;
+    background-color: white;
+    border-radius: 0.5em;
+    padding: 0.5em;
+}
+
+.covid19-image {
+    width: 40em;
+    height: 20em;
+    border-radius: 0.4em;
+}
+
+/* Healthcare Service Section Styles */
+.healthcare-service {
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: space-around;
+    background-image: url('./Image_Source/blue\ heart.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 30em;
+}
+
+.healthcare-category {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30em;
+}
+
+.service-item {
+    display: flex;
+    margin-top: 2em;
+}
+
+.service-info {
+    display: flex;
+    flex-direction: column;
+    margin-left: 0.5em;
+}
+
+.service-title {
+    font-size: 1.3em;
+}
+
+.healthcare-heading {
+    font-size: 2em;
+    padding: 1em 0em;
+}
+
+.service-icon {
+    width: 2.5em;
+    height: 2em;
+}
+
+/* Hospital Info Section Styles */
+.hospital-info {
+    display: flex;
+    justify-content: space-around;
+    margin: 3em;
+}
+
+.hospital-wrapper {
+    width: 35em;
+}
+.hospital-about{
+    margin-bottom: 1em;
+}
+.hospital-name {
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+.horizontal-line-red {
+    margin: 0.7em 0em 1em 0em;
+    width: 3em;
+    border: 2px solid;
+    border-radius: 0.6em;
+    color: red;
+}
+
+hospital-about {
+    padding-bottom: 2em;
+}
+
+.doctors-link {
+    font-weight: bold;
+    color: red;
+    text-decoration: underline;
+    margin-bottom: 3em;
+}
+
+.horizontal-line-cyan {
+    margin: 2em 0em 1em 0em;
+    border: 1px solid;
+    color: rgb(5, 140, 140);
+}
+
+.working-hours-title {
+    font-size: 1.5em;
+    margin-bottom: 1em;
+}
+
+.hospital-image {
+    width: 35em;
+    height: 30em;
+}
+/*Footer*/
+.footer-column{
+    display: flex;
+    justify-content: space-around;
+    padding: 1.5em;
+    background-color: darkcyan;
+}
+.footer-social-icons{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 1em;
+}
+.footer-social-button button{
+    display: inline-block;
+    padding: 0.7em 1em;
+    margin-right: 1em;
+    border: 1px solid white;
+    border-radius: 5em;
+    background-color: transparent;
+    color: white;
+}
+.footer-item{
+    margin: 0.3em;
+    color: white;
+}
+.footer-list li:first-child {
+    font-weight: bold; 
+    margin-bottom: 0.5em;
+}
+.footer-copyright{
+   margin: 1em 0em 1em 3em ; 
+   color: lightgrey;
+}
