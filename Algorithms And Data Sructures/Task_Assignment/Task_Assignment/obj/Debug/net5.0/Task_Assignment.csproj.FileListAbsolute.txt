@@ -1,0 +1,15 @@
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\Task_Assignment\Task_Assignment\bin\Debug\net5.0\Task_Assignment.exe
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\Task_Assignment\Task_Assignment\bin\Debug\net5.0\Task_Assignment.deps.json
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\Task_Assignment\Task_Assignment\bin\Debug\net5.0\Task_Assignment.runtimeconfig.json
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\Task_Assignment\Task_Assignment\bin\Debug\net5.0\Task_Assignment.runtimeconfig.dev.json
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\Task_Assignment\Task_Assignment\bin\Debug\net5.0\Task_Assignment.dll
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\Task_Assignment\Task_Assignment\bin\Debug\net5.0\Task_Assignment.pdb
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\Task_Assignment\Task_Assignment\obj\Debug\net5.0\Task_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\Task_Assignment\Task_Assignment\obj\Debug\net5.0\Task_Assignment.AssemblyInfoInputs.cache
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\Task_Assignment\Task_Assignment\obj\Debug\net5.0\Task_Assignment.AssemblyInfo.cs
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\Task_Assignment\Task_Assignment\obj\Debug\net5.0\Task_Assignment.csproj.CoreCompileInputs.cache
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\Task_Assignment\Task_Assignment\obj\Debug\net5.0\Task_Assignment.dll
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\Task_Assignment\Task_Assignment\obj\Debug\net5.0\refint\Task_Assignment.dll
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\Task_Assignment\Task_Assignment\obj\Debug\net5.0\Task_Assignment.pdb
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\Task_Assignment\Task_Assignment\obj\Debug\net5.0\Task_Assignment.genruntimeconfig.cache
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\Task_Assignment\Task_Assignment\obj\Debug\net5.0\ref\Task_Assignment.dll
