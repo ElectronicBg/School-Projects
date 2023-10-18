@@ -23,6 +23,7 @@
     background-image: url('./Image_Source/Main_bg_img.png');
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
     height: 40em;
 }
 
@@ -33,8 +34,9 @@
 .welcome-title {
     display: flex;
     justify-content: center;
-    font-size: 4em;
+    min-width: 15em;
     padding: 1em;
+    font-size: 4em;
 }
 
 .welcome-subtitle {
@@ -50,10 +52,13 @@
 }
 
 .welcome-button {
-    background-color: red;
+    padding: 0.7em 1em;
+
     border: none;
     border-radius: 0.8em;
-    padding: 0.7em;
+
+    color: white;
+    background-color: red;
 }
 
 .welcome-healthy {
@@ -70,6 +75,7 @@
 
 .covid19-text-container {
     width: 35em;
+    min-width: 35em;
     margin-right: 1em;
 }
 
@@ -85,11 +91,11 @@
 }
 
 .covid19-button {
-    border-color: greenyellow;
-    color: greenyellow;
+    border:solid 2px darkgreen;
+    color: darkgreen;
     background-color: white;
     border-radius: 0.5em;
-    padding: 0.5em;
+    padding: 1em;
 }
 
 .covid19-image {
@@ -103,11 +109,13 @@
     display: grid;
     grid-template-columns: auto auto;
     justify-content: space-around;
+
+    padding: 2em;
+
     background-image: url('./Image_Source/blue\ heart.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    height: 30em;
 }
 
 .healthcare-category {
@@ -133,12 +141,13 @@
 }
 
 .healthcare-heading {
+    margin-top: 2em;
     font-size: 2em;
-    padding: 1em 0em;
+    font-weight: bolder;
 }
 
 .service-icon {
-    width: 2.5em;
+    width: 2.7em;
     height: 2em;
 }
 
@@ -148,9 +157,9 @@
     justify-content: space-around;
     margin: 3em;
 }
-
 .hospital-wrapper {
     width: 35em;
+    min-width: 35em;
 }
 .hospital-about{
     margin-bottom: 1em;
@@ -168,11 +177,6 @@
     border-radius: 0.6em;
     color: red;
 }
-
-hospital-about {
-    padding-bottom: 2em;
-}
-
 .doctors-link {
     font-weight: bold;
     color: red;
@@ -190,11 +194,12 @@ hospital-about {
     font-size: 1.5em;
     margin-bottom: 1em;
 }
-
 .hospital-image {
     width: 35em;
     height: 30em;
+    border-radius: 0.5em;
 }
+
 /*Footer*/
 .footer-column{
     display: flex;
@@ -221,7 +226,7 @@ hospital-about {
     color: white;
 }
 .footer-list li:first-child {
-    font-weight: bold; 
+    font-weight: bolder; 
     margin-bottom: 0.5em;
 }
 .footer-copyright{
