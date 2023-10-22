@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Largest_NonDecreasing_Subsequence/1.0.0": {
+        "runtime": {
+          "Largest_NonDecreasing_Subsequence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Largest_NonDecreasing_Subsequence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
