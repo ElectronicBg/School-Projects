@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Threading.Tasks;
 
 class NQueens
 {
@@ -11,13 +10,8 @@ class NQueens
         Console.Write("Enter the size of the chessboard: ");
         if (int.TryParse(Console.ReadLine(), out boardSize) && boardSize > 0)
         {
-            Parallel.For(0, boardSize, row =>
-            {
-                int[] queens = new int[boardSize];
-                queens[0] = row;
-                SolveNQueens(1, queens);
-            });
-
+            int[] queens = new int[boardSize];
+            SolveNQueens(0, queens);
             Console.WriteLine($"Found {solutionsCount} distinct solutions.");
         }
         else
@@ -30,11 +24,8 @@ class NQueens
     {
         if (row == boardSize)
         {
-            if (IsDistinctSolution(queens))
-            {
-                PrintSolution(queens);
-                solutionsCount++;
-            }
+            solutionsCount++;
+            PrintSolution(queens);
             return;
         }
 
@@ -60,21 +51,6 @@ class NQueens
         return true;
     }
 
-    private static bool IsDistinctSolution(int[] queens)
-    {
-        for (int i = 0; i < boardSize - 1; i++)
-        {
-            for (int j = i + 1; j < boardSize; j++)
-            {
-                if (queens[i] == queens[j] || Math.Abs(queens[i] - queens[j]) == Math.Abs(i - j))
-                {
-                    return false;
-                }
-            }
-        }
-        return true;
-    }
-
     private static void PrintSolution(int[] queens)
     {
         Console.WriteLine($"Solution {solutionsCount}:\n");
@@ -82,7 +58,14 @@ class NQueens
         {
             for (int col = 0; col < boardSize; col++)
             {
-                Console.Write(queens[row] == col ? "Q " : "█ ");
+                if (queens[row] == col)
+                {
+                    Console.Write("Q ");
+                }
+                else
+                {
+                    Console.Write(". ");
+                }
             }
             Console.WriteLine();
         }
