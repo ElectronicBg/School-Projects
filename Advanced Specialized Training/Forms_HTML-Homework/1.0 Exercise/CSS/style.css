@@ -12,7 +12,7 @@ form {
 }
 
 label {
-    display: block;
+    display: inline-block;
     margin-bottom: 5px;
 }
 
@@ -50,7 +50,6 @@ a {
     text-decoration: none;
 }
 
-/* Style the links differently */
 a[href="registration.html"] {
     color: #007BFF;
 }
