@@ -1,0 +1,16 @@
+D:\School-Projects\Internet Programming\Music_Album\Music_Album\bin\Debug\net5.0\Music_Album.exe
+D:\School-Projects\Internet Programming\Music_Album\Music_Album\bin\Debug\net5.0\Music_Album.deps.json
+D:\School-Projects\Internet Programming\Music_Album\Music_Album\bin\Debug\net5.0\Music_Album.runtimeconfig.json
+D:\School-Projects\Internet Programming\Music_Album\Music_Album\bin\Debug\net5.0\Music_Album.runtimeconfig.dev.json
+D:\School-Projects\Internet Programming\Music_Album\Music_Album\bin\Debug\net5.0\Music_Album.dll
+D:\School-Projects\Internet Programming\Music_Album\Music_Album\bin\Debug\net5.0\Music_Album.pdb
+D:\School-Projects\Internet Programming\Music_Album\Music_Album\obj\Debug\net5.0\Music_Album.csproj.AssemblyReference.cache
+D:\School-Projects\Internet Programming\Music_Album\Music_Album\obj\Debug\net5.0\Music_Album.GeneratedMSBuildEditorConfig.editorconfig
+D:\School-Projects\Internet Programming\Music_Album\Music_Album\obj\Debug\net5.0\Music_Album.AssemblyInfoInputs.cache
+D:\School-Projects\Internet Programming\Music_Album\Music_Album\obj\Debug\net5.0\Music_Album.AssemblyInfo.cs
+D:\School-Projects\Internet Programming\Music_Album\Music_Album\obj\Debug\net5.0\Music_Album.csproj.CoreCompileInputs.cache
+D:\School-Projects\Internet Programming\Music_Album\Music_Album\obj\Debug\net5.0\Music_Album.dll
+D:\School-Projects\Internet Programming\Music_Album\Music_Album\obj\Debug\net5.0\refint\Music_Album.dll
+D:\School-Projects\Internet Programming\Music_Album\Music_Album\obj\Debug\net5.0\Music_Album.pdb
+D:\School-Projects\Internet Programming\Music_Album\Music_Album\obj\Debug\net5.0\Music_Album.genruntimeconfig.cache
+D:\School-Projects\Internet Programming\Music_Album\Music_Album\obj\Debug\net5.0\ref\Music_Album.dll
