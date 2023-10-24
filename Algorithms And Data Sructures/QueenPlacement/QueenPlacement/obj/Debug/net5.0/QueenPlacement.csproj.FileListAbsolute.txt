@@ -1,0 +1,15 @@
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\QueenPlacement\QueenPlacement\bin\Debug\net5.0\QueenPlacement.exe
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\QueenPlacement\QueenPlacement\bin\Debug\net5.0\QueenPlacement.deps.json
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\QueenPlacement\QueenPlacement\bin\Debug\net5.0\QueenPlacement.runtimeconfig.json
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\QueenPlacement\QueenPlacement\bin\Debug\net5.0\QueenPlacement.runtimeconfig.dev.json
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\QueenPlacement\QueenPlacement\bin\Debug\net5.0\QueenPlacement.dll
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\QueenPlacement\QueenPlacement\bin\Debug\net5.0\QueenPlacement.pdb
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\QueenPlacement\QueenPlacement\obj\Debug\net5.0\QueenPlacement.GeneratedMSBuildEditorConfig.editorconfig
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\QueenPlacement\QueenPlacement\obj\Debug\net5.0\QueenPlacement.AssemblyInfoInputs.cache
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\QueenPlacement\QueenPlacement\obj\Debug\net5.0\QueenPlacement.AssemblyInfo.cs
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\QueenPlacement\QueenPlacement\obj\Debug\net5.0\QueenPlacement.csproj.CoreCompileInputs.cache
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\QueenPlacement\QueenPlacement\obj\Debug\net5.0\QueenPlacement.dll
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\QueenPlacement\QueenPlacement\obj\Debug\net5.0\refint\QueenPlacement.dll
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\QueenPlacement\QueenPlacement\obj\Debug\net5.0\QueenPlacement.pdb
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\QueenPlacement\QueenPlacement\obj\Debug\net5.0\QueenPlacement.genruntimeconfig.cache
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\QueenPlacement\QueenPlacement\obj\Debug\net5.0\ref\QueenPlacement.dll
