@@ -1,0 +1,1 @@
+{"Name":"Emil","Health":43,"Gold":53,"Inventory":["Potion"]}

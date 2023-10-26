@@ -1,0 +1,1 @@
+{"Name":"Emil","Health":60,"Gold":194,"Inventory":["Gem","Scroll"]}
