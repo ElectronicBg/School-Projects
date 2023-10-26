@@ -1,1 +1,1 @@
-{"Name":"Emil","Health":43,"Gold":53,"Inventory":["Potion"]}
+{"Name":"Emil","Health":0,"Gold":286,"Inventory":["Potion","Potion","Gem","Scroll"]}

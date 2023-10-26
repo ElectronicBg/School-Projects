@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Sum_Of_Sequence/1.0.0": {
+        "runtime": {
+          "Sum_Of_Sequence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sum_Of_Sequence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

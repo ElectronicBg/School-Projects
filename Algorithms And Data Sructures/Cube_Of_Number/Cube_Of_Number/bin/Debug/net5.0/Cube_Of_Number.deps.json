@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Cube_Of_Number/1.0.0": {
+        "runtime": {
+          "Cube_Of_Number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cube_Of_Number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
