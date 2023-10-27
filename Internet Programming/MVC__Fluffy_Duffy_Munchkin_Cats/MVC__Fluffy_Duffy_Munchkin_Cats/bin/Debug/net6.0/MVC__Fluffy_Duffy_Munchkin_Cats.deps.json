@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MVC__Fluffy_Duffy_Munchkin_Cats/1.0.0": {
+        "runtime": {
+          "MVC__Fluffy_Duffy_Munchkin_Cats.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MVC__Fluffy_Duffy_Munchkin_Cats/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
