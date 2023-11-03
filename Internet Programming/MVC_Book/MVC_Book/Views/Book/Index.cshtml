@@ -1,0 +1,27 @@
+﻿@model IEnumerable<MVC_Book.Models.Book>
+<!DOCTYPE html>
+<html>
+<body>
+    <div class="responsive-container-block">
+        <p class="text-blk team-head-text">
+            Book List
+        </p>
+        @foreach (var book in Model)
+        {
+            <p class="text-blk name">
+                @Html.DisplayFor(modelItem => book.Title)
+            </p>
+            <p class="text-blk">
+                @Html.DisplayFor(modelItem => book.Year)
+            </p>
+            <p class="text-blk">
+                @Html.DisplayFor(modelItem => book.Author)
+            </p>
+            <p class="text-blk feature-text">
+               <img src="@book.CoverImage" alt="CoverImage">
+            </p>
+        }
+    </div>
+    <a asp-controller="Book" asp-action="Add">Add Book</a>
+</body>
+</html>
