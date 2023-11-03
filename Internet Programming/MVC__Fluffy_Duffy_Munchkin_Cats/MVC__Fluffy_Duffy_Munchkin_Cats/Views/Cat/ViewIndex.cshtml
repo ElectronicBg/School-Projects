@@ -1,0 +1,27 @@
+﻿@model IEnumerable<FDMC.Models.Cat>
+<!DOCTYPE html>
+<html>
+<body>
+    <div class="responsive-container-block">
+        <p class="text-blk team-head-text">
+            Cats List
+        </p>
+        @foreach (var cat in Model)
+        {
+            <p class="text-blk name">
+                @Html.DisplayFor(modelItem => cat.Name)
+            </p>
+            <p class="text-blk">
+                @Html.DisplayFor(modelItem => cat.Age) Years Old
+            </p>
+            <p class="text-blk">
+                @Html.DisplayFor(modelItem => cat.Breed)
+            </p>
+            <p class="text-blk feature-text">
+                @Html.DisplayFor(modelItem => cat.ImageUrl)
+            </p>
+        }
+    </div>
+    <a asp-controller="Cat" asp-action="Add">Add Cat</a>
+</body>
+</html>
