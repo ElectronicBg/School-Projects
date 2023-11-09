@@ -28,5 +28,32 @@ namespace MVC__Fluffy_Duffy_Munchkin_Cats.Controllers
             _context.SaveChanges();
             return RedirectToAction("Index");
         }
+        public ActionResult Update(int id)
+        {
+            var data = _context.Cats.Where
+                (x => x.ID == id).SingleOrDefault();
+            return View(data);
+        }
+
+        [HttpPost]
+        public ActionResult Update(int id, Cat cat)
+        {
+            var catData = _context.Cats.
+                FirstOrDefault(x => x.ID == id);
+
+            if (catData != null)
+            {
+                catData.Name = cat.Name;
+                catData.Age = cat.Age;
+                catData.Breed = cat.Breed;
+                catData.Img_Url = cat.Img_Url;
+                _context.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            else
+            {
+                return View();
+            }
+        }
     }
 }

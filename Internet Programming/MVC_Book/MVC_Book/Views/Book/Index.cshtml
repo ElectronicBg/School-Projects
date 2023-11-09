@@ -17,9 +17,10 @@
             <p class="text-blk">
                 @Html.DisplayFor(modelItem => book.Author)
             </p>
-            <p class="text-blk feature-text">
-               <img src="@book.CoverImage" alt="CoverImage">
+            <p class="text-blk feature-text" style="border: 2px solid #3498db; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); padding: 10px;">
+                <img src="@book.CoverImage" alt="CoverImage" style="max-width: 50%; border-radius: 50%;">
             </p>
+            <a asp-action="Update" asp-route-id="@book.Id" class="btn btn-primary">Update</a>
         }
     </div>
     <a asp-controller="Book" asp-action="Add">Add Book</a>

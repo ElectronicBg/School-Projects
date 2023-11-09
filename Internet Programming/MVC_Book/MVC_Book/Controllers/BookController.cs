@@ -28,5 +28,32 @@ namespace MVC_Book.Controllers
             _context.SaveChanges();
             return RedirectToAction("Index");
         }
+        public ActionResult Update(int id)
+        {
+            var data = _context.Books.Where
+                (x => x.Id == id).SingleOrDefault();
+            return View(data);
+        }
+        [HttpPost]
+        public ActionResult Update(int id, Book book)
+        {
+            var bookData = _context.Books.
+                FirstOrDefault(x => x.Id == id);
+
+            if (bookData != null)
+            {
+                bookData.Title = book.Title;
+                bookData.Year = book.Year;
+                bookData.Author = book.Author;
+                bookData.CoverImage = book.CoverImage;
+                _context.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            else
+            {
+                return View();
+            }
+        }
+
     }
 }

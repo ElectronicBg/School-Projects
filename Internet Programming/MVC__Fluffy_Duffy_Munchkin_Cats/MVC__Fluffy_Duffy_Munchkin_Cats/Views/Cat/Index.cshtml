@@ -20,6 +20,7 @@
             <p class="text-blk feature-text">
                 @Html.DisplayFor(modelItem => cat.Img_Url)
             </p>
+            <a asp-action="Update" asp-route-id="@cat.ID" class="btn btn-primary">Update</a>
         }
     </div>
     <a asp-controller="Cat" asp-action="Add">Add Cat</a>
