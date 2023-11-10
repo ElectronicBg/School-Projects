@@ -19,8 +19,20 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0XEFkZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/School-Projects/Internet Programming/MVC__Fluffy_Duffy_Munchkin_Cats/MVC__Fluffy_Duffy_Munchkin_Cats/Views/Cat/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/School-Projects/Internet Programming/MVC__Fluffy_Duffy_Munchkin_Cats/MVC__Fluffy_Duffy_Munchkin_Cats/Views/Cat/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/School-Projects/Internet Programming/MVC__Fluffy_Duffy_Munchkin_Cats/MVC__Fluffy_Duffy_Munchkin_Cats/Views/Cat/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/School-Projects/Internet Programming/MVC__Fluffy_Duffy_Munchkin_Cats/MVC__Fluffy_Duffy_Munchkin_Cats/Views/Cat/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0XFNlYXJjaC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/School-Projects/Internet Programming/MVC__Fluffy_Duffy_Munchkin_Cats/MVC__Fluffy_Duffy_Munchkin_Cats/Views/Cat/Update.cshtml]

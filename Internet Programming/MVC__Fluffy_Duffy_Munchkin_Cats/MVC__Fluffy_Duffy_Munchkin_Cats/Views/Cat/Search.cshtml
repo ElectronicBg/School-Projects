@@ -1,0 +1,46 @@
+﻿@model List<MVC__Fluffy_Duffy_Munchkin_Cats.Models.Cat>
+<h2>Search Result</h2>
+<form asp-action="Search" method="get">
+    <div class="form-group">
+        <label for="searchTerm">Search Cat by Name:</label>
+        <input type="text" id="searchTerm" name="searchTerm" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>
+@if (Model.Count > 0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Breed</th>
+                <th>Image</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var cat in Model)
+            {
+                <tr>
+                    <td>@cat.ID</td>
+                    <td>@cat.Name</td>
+                    <td>@cat.Age</td>
+                    <td>@cat.Breed</td>
+                    <td>
+                        <img src="@cat.Img_Url" alt="Cat Image" class="img-thumbnail rounded" style="max-width: 50px;">
+                    </td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@cat.ID" class="btn btn-secondary">Cat Info</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>CAT NOT FOUND</p>
+}

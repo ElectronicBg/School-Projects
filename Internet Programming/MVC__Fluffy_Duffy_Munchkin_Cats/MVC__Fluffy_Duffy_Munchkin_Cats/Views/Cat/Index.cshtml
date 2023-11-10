@@ -6,23 +6,35 @@
         <p class="text-blk team-head-text">
             Cats List
         </p>
+        <form asp-action="Search" method="get">
+            <div class="form-group">
+                <label for="searchName">Search Cat by Name:</label>
+                <input type="text" id="searchTerm" name="searchName" class="form-control" />
+            </div>
+            <button type="submit" class="btn btn-primary">Search</button>
+        </form>
         @foreach (var cat in Model)
         {
             <p class="text-blk name">
+                Name:
                 @Html.DisplayFor(modelItem => cat.Name)
             </p>
             <p class="text-blk">
+                Age:
                 @Html.DisplayFor(modelItem => cat.Age) Years Old
             </p>
             <p class="text-blk">
+                Breed:
                 @Html.DisplayFor(modelItem => cat.Breed)
             </p>
             <p class="text-blk feature-text">
-                @Html.DisplayFor(modelItem => cat.Img_Url)
+                Image:
+                <img src="@cat.Img_Url" alt="Cat Image" class="img-thumbnail rounded img-fluid" style="max-width: 150px;">
             </p>
-            <a asp-action="Update" asp-route-id="@cat.ID" class="btn btn-primary">Update</a>
+            <a asp-action="Details" asp-route-id="@cat.ID" class="btn btn-secondary">Cat Info</a>
+            <br>
         }
     </div>
-    <a asp-controller="Cat" asp-action="Add">Add Cat</a>
+    <a asp-controller="Cat" asp-action="Add" class="btn btn-primary">Add Cat</a>
 </body>
 </html>

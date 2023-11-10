@@ -13,12 +13,31 @@ namespace MVC__Fluffy_Duffy_Munchkin_Cats.Controllers
         }
         public IActionResult Index()
         {
-            var cats=_context.Cats.ToList();
+            var cats = _context.Cats.ToList();
             return View(cats);
         }
+        public IActionResult Search(string searchName)
+        {
+            var allCats = _context.Cats.ToList();
+
+            var searchResult = allCats.Where(cat => cat.Name.Contains(searchName)).ToList();
+
+            return View(searchResult);
+        }
+
         public IActionResult Add()
         {
             return View();
+        }
+
+        public IActionResult Details(int id)
+        {
+            var cat = _context.Cats.Where(x => x.ID == id).SingleOrDefault();
+            if (cat == null)
+            {
+                return NotFound();
+            }
+            return View(cat);
         }
 
         [HttpPost]
@@ -54,6 +73,27 @@ namespace MVC__Fluffy_Duffy_Munchkin_Cats.Controllers
             {
                 return View();
             }
+        }
+        public IActionResult Delete(int id)
+        {
+            var cat = _context.Cats.FirstOrDefault(x => x.ID == id);
+            if (cat == null)
+            {
+                return NotFound();
+            }
+            return View(cat);
+        }
+        [HttpPost, ActionName("Delete")]
+        public IActionResult DeleteConfirmed(int id)
+        {
+            var cat = _context.Cats.FirstOrDefault(x => x.ID == id);
+            if (cat == null)
+            {
+                return NotFound();
+            }
+            _context.Cats.Remove(cat);
+            _context.SaveChanges();
+            return RedirectToAction("Index");
         }
     }
 }

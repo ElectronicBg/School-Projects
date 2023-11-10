@@ -1,0 +1,26 @@
+﻿@model Cat
+
+<div>
+    <dl class="row">
+        <dt>Id</dt>
+        <dd>@Model.ID</dd>
+
+        <dt>Name</dt>
+        <dd>@Model.Name</dd>
+
+        <dt>Age</dt>
+        <dd>@Model.Age</dd>
+
+        <dt>Breed</dt>
+        <dd>@Model.Breed</dd>
+
+        <dt>Image</dt>
+        <dd>
+            <img src="@Model.Img_Url" alt="Cat Image" class="img-thumbnail rounded" style="max-width: 150px;">
+        </dd>
+    </dl>
+</div>
+
+<a asp-action="Update" asp-route-id="@Model.ID" class="btn btn-primary">Update</a>
+<a asp-action="Delete" asp-route-id="@Model.ID" class="btn btn-danger">Delete</a>
+<a asp-controller="Cat" asp-action="Index" class="btn btn-secondary">Back to list</a>
