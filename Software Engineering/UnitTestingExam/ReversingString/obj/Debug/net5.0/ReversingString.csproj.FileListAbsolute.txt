@@ -1,0 +1,15 @@
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Software Engineering\UnitTestingExam\ReversingString\bin\Debug\net5.0\ReversingString.exe
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Software Engineering\UnitTestingExam\ReversingString\bin\Debug\net5.0\ReversingString.deps.json
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Software Engineering\UnitTestingExam\ReversingString\bin\Debug\net5.0\ReversingString.runtimeconfig.json
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Software Engineering\UnitTestingExam\ReversingString\bin\Debug\net5.0\ReversingString.runtimeconfig.dev.json
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Software Engineering\UnitTestingExam\ReversingString\bin\Debug\net5.0\ReversingString.dll
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Software Engineering\UnitTestingExam\ReversingString\bin\Debug\net5.0\ReversingString.pdb
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Software Engineering\UnitTestingExam\ReversingString\obj\Debug\net5.0\ReversingString.GeneratedMSBuildEditorConfig.editorconfig
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Software Engineering\UnitTestingExam\ReversingString\obj\Debug\net5.0\ReversingString.AssemblyInfoInputs.cache
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Software Engineering\UnitTestingExam\ReversingString\obj\Debug\net5.0\ReversingString.AssemblyInfo.cs
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Software Engineering\UnitTestingExam\ReversingString\obj\Debug\net5.0\ReversingString.csproj.CoreCompileInputs.cache
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Software Engineering\UnitTestingExam\ReversingString\obj\Debug\net5.0\ReversingString.dll
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Software Engineering\UnitTestingExam\ReversingString\obj\Debug\net5.0\refint\ReversingString.dll
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Software Engineering\UnitTestingExam\ReversingString\obj\Debug\net5.0\ReversingString.pdb
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Software Engineering\UnitTestingExam\ReversingString\obj\Debug\net5.0\ReversingString.genruntimeconfig.cache
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Software Engineering\UnitTestingExam\ReversingString\obj\Debug\net5.0\ref\ReversingString.dll

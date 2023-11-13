@@ -1,0 +1,15 @@
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Software Engineering\UnitTestingExam\RoundingNumbers\bin\Debug\net5.0\RoundingNumbers.exe
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Software Engineering\UnitTestingExam\RoundingNumbers\bin\Debug\net5.0\RoundingNumbers.deps.json
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Software Engineering\UnitTestingExam\RoundingNumbers\bin\Debug\net5.0\RoundingNumbers.runtimeconfig.json
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Software Engineering\UnitTestingExam\RoundingNumbers\bin\Debug\net5.0\RoundingNumbers.runtimeconfig.dev.json
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Software Engineering\UnitTestingExam\RoundingNumbers\bin\Debug\net5.0\RoundingNumbers.dll
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Software Engineering\UnitTestingExam\RoundingNumbers\bin\Debug\net5.0\RoundingNumbers.pdb
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Software Engineering\UnitTestingExam\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Software Engineering\UnitTestingExam\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.AssemblyInfoInputs.cache
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Software Engineering\UnitTestingExam\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.AssemblyInfo.cs
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Software Engineering\UnitTestingExam\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.csproj.CoreCompileInputs.cache
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Software Engineering\UnitTestingExam\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.dll
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Software Engineering\UnitTestingExam\RoundingNumbers\obj\Debug\net5.0\refint\RoundingNumbers.dll
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Software Engineering\UnitTestingExam\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.pdb
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Software Engineering\UnitTestingExam\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.genruntimeconfig.cache
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Software Engineering\UnitTestingExam\RoundingNumbers\obj\Debug\net5.0\ref\RoundingNumbers.dll
