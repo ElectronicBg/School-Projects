@@ -6,6 +6,13 @@
         <p class="text-blk team-head-text">
             Book List
         </p>
+        <form asp-action="Search" method="get">
+            <div class="form-group">
+                <label for="searchName">Search Book by Name:</label>
+                <input type="text" id="searchTerm" name="searchName" class="form-control" />
+            </div>
+            <button type="submit" class="btn btn-primary">Search</button>
+        </form>
         @foreach (var book in Model)
         {
             <p class="text-blk name">
@@ -17,8 +24,9 @@
             <p class="text-blk">
                 @Html.DisplayFor(modelItem => book.Author)
             </p>
-            <p class="text-blk feature-text" style="border: 2px solid #3498db; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); padding: 10px;">
-                <img src="@book.CoverImage" alt="CoverImage" style="max-width: 50%; border-radius: 50%;">
+            <p class="text-blk feature-text">
+                Image:
+                <img src="@book.CoverImage" alt="Book Image" class="img-thumbnail rounded img-fluid" style="max-width: 150px;">
             </p>
             <a asp-action="Update" asp-route-id="@book.Id" class="btn btn-primary">Update</a>
         }

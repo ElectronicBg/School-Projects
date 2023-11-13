@@ -1,0 +1,46 @@
+﻿@model List<MVC_Book.Models.Book>
+<h2>Search Result</h2>
+<form asp-action="Search" method="get">
+    <div class="form-group">
+        <label for="searchTerm">Search book by Name:</label>
+        <input type="text" id="searchTerm" name="searchTerm" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>
+@if (Model.Count > 0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Title</th>
+                <th>Year</th>
+                <th>Author</th>
+                <th>Cover Image</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var book in Model)
+            {
+                <tr>
+                    <td>@book.Id</td>
+                    <td>@book.Title</td>
+                    <td>@book.Year</td>
+                    <td>@book.Author</td>
+                    <td>
+                        <img src="@book.CoverImage" alt="book Image" class="img-thumbnail rounded" style="max-width: 50px;">
+                    </td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@book.Id" class="btn btn-secondary">book Info</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Book NOT FOUND!</p>
+}

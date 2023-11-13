@@ -16,9 +16,27 @@ namespace MVC_Book.Controllers
             var books = _context.Books.ToList();
             return View(books);
         }
+        public IActionResult Search(string searchTitle)
+        {
+            var allBooks = _context.Books.ToList();
+
+            var searchResult = allBooks.Where(book => book.Title.Contains(searchTitle)).ToList();
+
+            return View(searchResult);
+        }
+
         public IActionResult Add()
         {
             return View();
+        }
+        public IActionResult Details(int id)
+        {
+            var book = _context.Books.Where(x => x.Id == id).SingleOrDefault();
+            if (book == null)
+            {
+                return NotFound();
+            }
+            return View(book);
         }
 
         [HttpPost]
@@ -54,6 +72,27 @@ namespace MVC_Book.Controllers
                 return View();
             }
         }
-
+        public IActionResult Delete(int id)
+        {
+            var book = _context.Books.FirstOrDefault(x => x.Id == id);
+            if (book == null)
+            {
+                return NotFound();
+            }
+            return View(book);
+        }
+        [HttpPost, ActionName("Delete")]
+        public IActionResult DeleteConfirmed(int id)
+        {
+            var book = _context.Books.FirstOrDefault(x => x.Id == id);
+            if (book == null)
+            {
+                return NotFound();
+            }
+            _context.Books.Remove(book);
+            _context.SaveChanges();
+            return RedirectToAction("Index");
+        }
     }
 }
+
