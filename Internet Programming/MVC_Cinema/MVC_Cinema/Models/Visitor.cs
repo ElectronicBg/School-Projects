@@ -2,11 +2,11 @@
 
 namespace MVC_Cinema.Models
 {
-    public class Tickets
+    public class Visitor
     {
         [Key]
         public int ID { get; set; }
-        public Movie Movie { get; set; }
-        public int PlaceNumber { get; set; }
+        public string Name { get; set; }
+        public string Email { get; set; }
     }
 }
