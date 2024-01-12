@@ -32,8 +32,9 @@
                 <td>@student.Course.CourseName</td>
                 <td>
                     <a asp-action="Edit" asp-route-id="@student.StudentId" class="btn btn-primary">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@student.StudentId" class="btn btn-danger">Delete</a>
                 </td>
-            </tr>
+            </tr>         
         }
     </tbody>
 </table>

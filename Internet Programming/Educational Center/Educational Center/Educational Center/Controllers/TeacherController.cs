@@ -17,9 +17,10 @@ namespace Educational_Center.Controllers
         // GET: Teachers
         public IActionResult Index()
         {
-            var teachers = _context.Teachers.ToList();
+            var teachers = _context.Teachers.Include(t => t.TeacherCourses).ThenInclude(tc => tc.Course).ToList();
             return View(teachers);
         }
+
 
         // GET: Teachers/Details/5
         public IActionResult Details(int? id)
