@@ -1,0 +1,56 @@
+﻿@model Educational_Center.Models.Student
+@{
+    ViewData["Title"] = "Edit Student";
+}
+
+<h2>Edit Student</h2>
+<form method="post" asp-action="Edit">
+    <input type="hidden" asp-for="StudentId" />
+
+    <div class="form-group">
+        <label asp-for="Photo" class="form-label"></label>
+        <input asp-for="Photo" class="form-control" />
+        <span asp-validation-for="Photo" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="FirstName" class="form-label"></label>
+        <input asp-for="FirstName" class="form-control" />
+        <span asp-validation-for="FirstName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="LastName" class="form-label"></label>
+        <input asp-for="LastName" class="form-control" />
+        <span asp-validation-for="LastName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="DateOfBirth" class="form-label"></label>
+        <input asp-for="DateOfBirth" type="date" class="form-control" />
+        <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Age" class="form-label"></label>
+        <input asp-for="Age" class="form-control" />
+        <span asp-validation-for="Age" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ContactNumber" class="form-label"></label>
+        <input asp-for="ContactNumber" class="form-control" />
+        <span asp-validation-for="ContactNumber" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="CourseId" class="form-label"></label>
+        <select asp-for="CourseId" asp-items="@(new SelectList(ViewBag.Courses, "CourseId", "CourseName"))" class="form-control"></select>
+        <span asp-validation-for="CourseId" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Update Student</button>
+</form>
+
+<a
+

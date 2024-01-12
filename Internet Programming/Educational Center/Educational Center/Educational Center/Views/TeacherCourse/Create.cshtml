@@ -1,0 +1,23 @@
+﻿@model Educational_Center.Models.TeacherCourse
+@{
+    ViewData["Title"] = "Create Teacher Course";
+}
+
+<h2>Create Teacher Course</h2>
+<form method="post" asp-action="Create">
+    <div class="form-group">
+        <label asp-for="TeacherId" class="form-label"></label>
+        <select asp-for="TeacherId" asp-items="@(new SelectList(ViewBag.Teachers, "TeacherId", "FirstName"))" class="form-control"></select>
+        <span asp-validation-for="TeacherId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="CourseId" class="form-label"></label>
+        <select asp-for="CourseId" asp-items="@(new SelectList(ViewBag.Courses, "CourseId", "CourseName"))" class="form-control"></select>
+        <span asp-validation-for="CourseId" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Add Teacher Course</button>
+</form>
+
+<a asp-action="Index" class="btn btn-secondary">Back to Teacher Courses List</a>

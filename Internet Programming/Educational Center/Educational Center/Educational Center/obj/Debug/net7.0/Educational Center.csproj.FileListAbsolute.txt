@@ -1,0 +1,171 @@
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\appsettings.json
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Educational Center.staticwebassets.runtime.json
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Educational Center.exe
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Educational Center.deps.json
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Educational Center.runtimeconfig.json
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Educational Center.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Educational Center.pdb
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\obj\Debug\net7.0\Educational Center.csproj.AssemblyReference.cache
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\obj\Debug\net7.0\Educational Center.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\obj\Debug\net7.0\Educational Center.AssemblyInfoInputs.cache
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\obj\Debug\net7.0\Educational Center.AssemblyInfo.cs
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\obj\Debug\net7.0\Educational Center.csproj.CoreCompileInputs.cache
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\obj\Debug\net7.0\Educational Center.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\obj\Debug\net7.0\Educational Center.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\obj\Debug\net7.0\Educational Center.RazorAssemblyInfo.cache
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\obj\Debug\net7.0\Educational Center.RazorAssemblyInfo.cs
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\obj\Debug\net7.0\staticwebassets\msbuild.Educational Center.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\obj\Debug\net7.0\staticwebassets\msbuild.build.Educational Center.props
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Educational Center.props
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Educational Center.props
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\obj\Debug\net7.0\scopedcss\bundle\Educational Center.styles.css
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\obj\Debug\net7.0\scopedcss\projectbundle\Educational Center.bundle.scp.css
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\obj\Debug\net7.0\Educational Center.csproj.CopyComplete
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\obj\Debug\net7.0\Educational Center.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\obj\Debug\net7.0\refint\Educational Center.dll
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\obj\Debug\net7.0\Educational Center.pdb
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\obj\Debug\net7.0\Educational Center.genruntimeconfig.cache
+C:\Users\Nabila\source\repos\Educational Center\Educational Center\obj\Debug\net7.0\ref\Educational Center.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\appsettings.Development.json
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\appsettings.json
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Educational Center.staticwebassets.runtime.json
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Educational Center.exe
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Educational Center.deps.json
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Educational Center.runtimeconfig.json
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Educational Center.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Educational Center.pdb
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Azure.Core.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Azure.Identity.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Humanizer.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\System.CodeDom.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\System.Memory.Data.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\obj\Debug\net7.0\Educational Center.csproj.AssemblyReference.cache
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\obj\Debug\net7.0\Educational Center.GeneratedMSBuildEditorConfig.editorconfig
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\obj\Debug\net7.0\Educational Center.AssemblyInfoInputs.cache
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\obj\Debug\net7.0\Educational Center.AssemblyInfo.cs
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\obj\Debug\net7.0\Educational Center.csproj.CoreCompileInputs.cache
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\obj\Debug\net7.0\Educational Center.MvcApplicationPartsAssemblyInfo.cs
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\obj\Debug\net7.0\Educational Center.MvcApplicationPartsAssemblyInfo.cache
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\obj\Debug\net7.0\Educational Center.RazorAssemblyInfo.cache
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\obj\Debug\net7.0\Educational Center.RazorAssemblyInfo.cs
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\obj\Debug\net7.0\Educational Center.sourcelink.json
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\obj\Debug\net7.0\staticwebassets.build.json
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\obj\Debug\net7.0\staticwebassets.development.json
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\obj\Debug\net7.0\staticwebassets\msbuild.Educational Center.Microsoft.AspNetCore.StaticWebAssets.props
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\obj\Debug\net7.0\staticwebassets\msbuild.build.Educational Center.props
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Educational Center.props
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Educational Center.props
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\obj\Debug\net7.0\staticwebassets.pack.json
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\obj\Debug\net7.0\scopedcss\bundle\Educational Center.styles.css
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\obj\Debug\net7.0\scopedcss\projectbundle\Educational Center.bundle.scp.css
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\obj\Debug\net7.0\Educational Center.csproj.CopyComplete
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\obj\Debug\net7.0\Educational Center.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\obj\Debug\net7.0\refint\Educational Center.dll
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\obj\Debug\net7.0\Educational Center.pdb
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\obj\Debug\net7.0\Educational Center.genruntimeconfig.cache
+D:\School-Projects\Internet Programming\Educational Center\Educational Center\Educational Center\obj\Debug\net7.0\ref\Educational Center.dll
