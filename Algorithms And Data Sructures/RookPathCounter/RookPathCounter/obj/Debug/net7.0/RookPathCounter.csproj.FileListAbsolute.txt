@@ -1,0 +1,14 @@
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\RookPathCounter\RookPathCounter\bin\Debug\net7.0\RookPathCounter.exe
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\RookPathCounter\RookPathCounter\bin\Debug\net7.0\RookPathCounter.deps.json
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\RookPathCounter\RookPathCounter\bin\Debug\net7.0\RookPathCounter.runtimeconfig.json
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\RookPathCounter\RookPathCounter\bin\Debug\net7.0\RookPathCounter.dll
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\RookPathCounter\RookPathCounter\bin\Debug\net7.0\RookPathCounter.pdb
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\RookPathCounter\RookPathCounter\obj\Debug\net7.0\RookPathCounter.GeneratedMSBuildEditorConfig.editorconfig
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\RookPathCounter\RookPathCounter\obj\Debug\net7.0\RookPathCounter.AssemblyInfoInputs.cache
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\RookPathCounter\RookPathCounter\obj\Debug\net7.0\RookPathCounter.AssemblyInfo.cs
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\RookPathCounter\RookPathCounter\obj\Debug\net7.0\RookPathCounter.csproj.CoreCompileInputs.cache
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\RookPathCounter\RookPathCounter\obj\Debug\net7.0\RookPathCounter.dll
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\RookPathCounter\RookPathCounter\obj\Debug\net7.0\refint\RookPathCounter.dll
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\RookPathCounter\RookPathCounter\obj\Debug\net7.0\RookPathCounter.pdb
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\RookPathCounter\RookPathCounter\obj\Debug\net7.0\RookPathCounter.genruntimeconfig.cache
+D:\random things\VisualStudio-SchoolProjects\School-Projects\Algorithms And Data Sructures\RookPathCounter\RookPathCounter\obj\Debug\net7.0\ref\RookPathCounter.dll
